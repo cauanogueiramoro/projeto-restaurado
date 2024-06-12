@@ -1,7 +1,16 @@
-LIVE SHARE : https://prod.liveshare.vsengsaas.visualstudio.com/join?ED54D8BD4F63AAD4BCCF513BBFB1A114D44A
+LIVE SHARE : https://prod.liveshare.vsengsaas.visualstudio.com/join?82B514DC8F8F5D43121C159B18280BBD182F
 
-**PROJETO PET LOVE**
-====================================================================================================================================================
+_**PROJETO PET LOVE**_
+
+
+**AUTORES DO PROJETO** 
+
+- CAUÃ NOGUEIRA MORO
+- GABRIEL DONATTI
+- CAIO FELIPE
+- KAMILE SILVA
+
+
 
 **Pacotes que precisam ser instalados**
 
@@ -30,53 +39,17 @@ npm install -g nodemon
 
 & ou
 
-**NPM INSTALL** 
+```
+npm install
+```
 
-====================================================================================================================================================
 
-**PAGES USADAS:**
 
-Cadastro ;
 
-Contato ;
 
-Denuncia ;
 
-Home;
 
-Login;
 
-Pets;
 
-Produtos;
 
-Sobre;
-
-Descrição dos pets;
-
-Carrinho;
-
-Pagamento;
-
-====================================================================================================================================================
-
-**COMPONENTES USADOS**
-
-Texto;
-
-Text Input;
-
-Botão;
-
-Botão com Imagem;
-
-HeaderHome;
-
-HeaderCarrinho;
-
-FooterCarrinho;
-
-Modal;
-
-CustomDrawer;
 
